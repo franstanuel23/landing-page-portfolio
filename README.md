@@ -8,4 +8,4 @@ This is a simple personal landing page built with HTML and CSS.
 - Easy to customize
 
 ## Live Demo
-https://username.github.io/landing-page-portfolio/
+https://franstanuel23.github.io/landing-page-portfolio/
